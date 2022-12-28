@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "f1e3509fc013c691",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c166c091e8cbd7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87893d04c3ae6f61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geo York/Fia Schneider -Writeup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ad3d794c6f3e8fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "286c23642310288e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3341747995cc789a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d714c447478ee41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e804d389b2d0f944",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.5
+  },
+  "right": {
+    "id": "cf53c0ddd37ad94d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7f705f11e1fefba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfa132ebb3fba332",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Geo York/Fia Schneider -Writeup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63743e76ec94a953",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Geo York/Fia Schneider -Writeup.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37f2e0364b4c5f83",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1b89df4adc8087d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Geo York/Fia Schneider -Writeup.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "87893d04c3ae6f61",
+  "lastOpenFiles": [
+    "Geo York/Fia Schneider -Character Spritesheet.md",
+    "Geo York/Fia Schneider -Writeup.md",
+    "CRC Stories - Image Resource/stars.webp",
+    "CRC Stories/Dreams of days gone by.md",
+    "CRC Stories - Image Resource/public.webp",
+    "CRC Stories - Image Resource/niasuitgloweyes.webp",
+    "CRC Stories - Image Resource/Nia-Mom-oToolate.png",
+    "CRC Stories - Image Resource/Nia-Mom-oKillYourselfA.png",
+    "CRC Stories - Image Resource/Nia-Mom-NightmareSceneC.png",
+    "CRC Stories - Image Resource/Nia-Mom-NightmareScene.png"
+  ]
+}
